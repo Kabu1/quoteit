@@ -9,8 +9,8 @@ import { quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
 
-  quotes=[new Quote("ANC","Julius Malema","Mama give us a sign"),
-new Quote("Lupita","Black Panther","Wakanda Forever")]
+  quotes=[new Quote("Nation","Kagwe mutahi","if you continue acting normally this disease will treat you abnormally"),
+new Quote("NYT","luther King","slavery taught black people how to survive not live")]
   preNum:number
   lastNum:number
   counter:number
