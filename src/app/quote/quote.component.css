@@ -12,4 +12,10 @@
     width: 98%;
   }
   
-  
+  .container{
+    background-color: thistle;
+  }
+  .container hr{
+    color: black;
+    border: solid 1px;
+  }
