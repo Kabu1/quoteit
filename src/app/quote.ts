@@ -1,4 +1,4 @@
-export class Quote {
+export class quote {
   public upvotes:number
   public downvotes:number
   public myDate:Date
